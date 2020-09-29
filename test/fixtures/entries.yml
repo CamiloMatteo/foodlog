@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+lechuga:
+  meal_type: MyString
+  calories: 10
+  proteins: 1
+  carbohydrates: 1
+  fats: 1
+
+hamburguesa:
+  meal_type: MyString
+  calories: 10
+  proteins: 3
+  carbohydrates: 13
+  fats: 24
